@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a Data Scientist with 1 year of experience spe
   - Created a multiple-page HR Analytics Dashboard which includes features such as Employee Turnover and Retention, Recruitment Metrics, Employee Performance Metrics, and Learning and Development Metrics. Tools used: SQL, PowerBI.
   - Delivered an A/B Testing tool to test the impact of different training programs on employee skills acquisition, job performance, and satisfaction. Techniques used: Hypothesis Testing, T-Test, Chi-Square Test, P-Value, Normal Distribution.
 
-## Languages and Tools
+## 📚 Languages & Tools
 <!DOCTYPE html>
 <html>
 <body>
@@ -46,10 +46,11 @@ Welcome to my GitHub profile! I'm a Data Scientist with 1 year of experience spe
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" alt="Keras logo" height=60 width=60/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height=50 width=50 />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height=60 width=60 />
-          
-          
-
-
+      <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Microsoft Power BI logo" width=60          height=60 />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height=50 width=50 />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height=50 width=50 />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height=50 width=50 />
+                  
           
   </p>
 </body>
