@@ -33,6 +33,29 @@ Welcome to my GitHub profile! I'm a Data Scientist with 1 year of experience spe
   - Created a multiple-page HR Analytics Dashboard which includes features such as Employee Turnover and Retention, Recruitment Metrics, Employee Performance Metrics, and Learning and Development Metrics. Tools used: SQL, PowerBI.
   - Delivered an A/B Testing tool to test the impact of different training programs on employee skills acquisition, job performance, and satisfaction. Techniques used: Hypothesis Testing, T-Test, Chi-Square Test, P-Value, Normal Distribution.
 
+## Languages and Tools
+<!DOCTYPE html>
+<html>
+<body>
+    <p>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python logo" height="50" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="50" width="50" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" height="60" width="60"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn logo" width=70 height=70 />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" alt="Keras logo" height=60 width=60/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height=50 width=50 />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height=60 width=60 />
+          
+          
+
+
+          
+  </p>
+</body>
+</html>
+
+
 ## 📝 My Medium Articles
 
 - Check out my latest articles on [Medium](https://medium.com/@abbasbehrain95) where I share insights and tutorials related to HR analytics, data science, and machine learning.
