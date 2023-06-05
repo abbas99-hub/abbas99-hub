@@ -1,6 +1,4 @@
-# Hello! 👋
-![Screenshot 2023-06-05 165511](https://github.com/abbas99-hub/abbas99-hub/assets/60792939/358554d9-d3a2-4f26-98ec-a6bc9175a36d)
-
+# Hello I'm Abbas Behrainwala! 👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-behrainwala-1b669b183)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@abbasbehrain95)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://your-portfolio-website.com)
