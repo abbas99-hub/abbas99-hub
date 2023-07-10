@@ -3,7 +3,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@abbasbehrain95)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://your-portfolio-website.com)
 
-Welcome to my GitHub profile! I'm a Data Scientist with 1 year of experience specializing in HR Analytics. I enjoy working on projects that leverage machine learning and data analysis techniques to provide valuable insights into the HR domain.
+Welcome to my GitHub profile! I'm an AI Developer with 1 year of experience specializing in HR Analytics. I enjoy working on projects that leverage machine learning and data analysis techniques to provide valuable insights into the HR domain.
 
 ## 🔭 What I'm Working On
 
