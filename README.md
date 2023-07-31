@@ -3,7 +3,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@abbasbehrain95)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://your-portfolio-website.com)
 
-Welcome to my GitHub profile! I'm an AI Engineer with around 2 years of experience in the Data Science domain, skilled in developing cutting-edge AI and Machine Learning solutions, analyzing large-scale datasets, designing interactive dashboards, and collaborating with cross-functional teams to drive data-driven decision-making.
+Welcome to my GitHub profile! I'm an AI Engineer with more than 2 years of experience in the Data Science domain, skilled in developing cutting-edge AI and Machine Learning solutions, analyzing large-scale datasets, designing interactive dashboards, and collaborating with cross-functional teams to drive data-driven decision-making.
 
 
 ## 🔭 What I'm Working On
@@ -24,12 +24,12 @@ Welcome to my GitHub profile! I'm an AI Engineer with around 2 years of experien
 
 ## 💼 My Experience
 
-- Software Developer at Litmusblox: 8/2021-6/2022
+- Data Scientist at Litmusblox: 8/2021-6/2022
   - Developed and implemented a Job Recommendation System that increased candidate-job matching accuracy by 30%.
   - Built a Resume Summarization System that reduced manual effort in resume screening by 50%.
   - Designed and deployed a CV Scoring tool that improved the efficiency of candidate evaluation by automating the scoring process.
 
-- Software Developer at Peopleblox: 6/2022-6/2023
+- Data Analyst at Peopleblox: 6/2022-6/2023
   - Built and maintained data pipelines to extract, transform, and load data from various sources, including structured and unstructured data. Tools used: SQL, PowerBI, Python.
   - Created a multiple-page HR Analytics Dashboard which includes features such as Employee Turnover and Retention, Recruitment Metrics, Employee Performance Metrics, and Learning and Development Metrics. Tools used: SQL, PowerBI.
   - Delivered an A/B Testing tool to test the impact of different training programs on employee skills acquisition, job performance, and satisfaction. Techniques used: Hypothesis Testing, T-Test, Chi-Square Test, P-Value, Normal Distribution.
