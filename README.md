@@ -3,28 +3,30 @@
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@abbasbehrain95)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://your-portfolio-website.com)
 
-Welcome to my GitHub profile! I'm an AI Engineer with more than 2 years of experience in the Data Science domain, skilled in developing cutting-edge AI and Machine Learning solutions, analyzing large-scale datasets, designing interactive dashboards, and collaborating with cross-functional teams to drive data-driven decision-making.
+Welcome to my GitHub profile! I'm a data science professional with  3 years of experience in the Data Science domain, skilled in developing cutting-edge ML solutions, analyzing large-scale datasets, designing interactive dashboards, and collaborating with cross-functional teams to drive data-driven decision-making.
 
 
 ## 🔭 What I'm Working On
 
-- I'm developing a more advanced version of the Resume Summarization System using natural language processing (NLP) to automatically extract key information from resumes and generate concise summaries.
+- I'm exploring Data Analytics Applications in different industries such as Finance, Marketing, and Retail.
+- I am working on building End-to-End Production Level Dashboard from Extract Transform Load (ETL) data from different sources to 
+ an interactive dashboard.
 - Also, I'm building an integrated dynamic HR Analytics Dashboard to visualize and analyze key HR metrics, such as employee attrition, performance, and diversity.
 
 ## 🌱 What I'm Learning
 
-- I'm expanding my NLP knowledge into Large Language Models (LLMs) like BERT, and GPT-3 and exploring advanced NLP architectures like Hugging Face Transformer and many more to enhance the accuracy and quality of my HR-related projects.
-- I'm also diving deeper into recommendation systems, exploring different algorithms and strategies to improve the precision and personalization of job recommendations.
+- I'm expanding my Data Analysis knowledge and exploring advanced Big Data architectures using PySpark, Hive, Snowflakes, and many more to enhance the accuracy and quality of my Data Analyst projects.
+- I'm also diving deeper into recommendation systems, exploring different algorithms and strategies to improve the precision and personalization of product recommendations.
 
 ## 🚀 My Projects
-
+- Supply Chain Analytics: https://github.com/abbas99-hub/Supply-Chain-Analytics 
 - Job Recommendation System: https://github.com/abbas99-hub/Job-Recommendation-System
 - Predict HR Employee Joining using ML: https://github.com/abbas99-hub/Predict-HR-Employee-Joining-Company-Using-ML
 - HR Job Salary Analytics Dashboard: https://app.powerbi.com/links/J5PBneu_XH?ctid=80422497-e632-410a-964a-2cee17aa1964&pbi_source=linkShare 
 
 ## 💼 My Experience
 
-- Data Scientist at Litmusblox: 8/2021-6/2022
+- Data Scientist at Litmusblox: 8/2020-6/2022
   - Developed and implemented a Job Recommendation System that increased candidate-job matching accuracy by 30%.
   - Built a Resume Summarization System that reduced manual effort in resume screening by 50%.
   - Designed and deployed a CV Scoring tool that improved the efficiency of candidate evaluation by automating the scoring process.
