@@ -1,7 +1,7 @@
 # Hello I'm Abbas Behrainwala! 👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-behrainwala-1b669b183)
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@abbasbehrain95)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://your-portfolio-website.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://www.datascienceportfol.io/portfolio99)
 
 Welcome to my GitHub profile! I'm a data science professional with  3 years of experience in the Data Science domain, skilled in developing cutting-edge ML solutions, analyzing large-scale datasets, designing interactive dashboards, and collaborating with cross-functional teams to drive data-driven decision-making.
 
@@ -26,15 +26,23 @@ Welcome to my GitHub profile! I'm a data science professional with  3 years of e
 
 ## 💼 My Experience
 
-- Data Scientist at Litmusblox: 8/2020-6/2022
+- Data Analyst at Litmusblox: 8/2020-6/2022
   - Developed and implemented a Job Recommendation System that increased candidate-job matching accuracy by 30%.
   - Built a Resume Summarization System that reduced manual effort in resume screening by 50%.
   - Designed and deployed a CV Scoring tool that improved the efficiency of candidate evaluation by automating the scoring process.
+  - Conducted A/B tests on different product features processes, resulting in a 12% increase in conversion rate .
+  - Identified critical company KPIs for revenue, customer acquisition, and customer satisfaction.
+  - Developed a predictive model that accurately identified potential churn cases with an 85% accuracy rate .
+  - Enhanced user insights, contributing to a 10% increase in personalized user experiences .
+  - 
 
 - Data Analyst at Peopleblox: 6/2022-6/2023
-  - Built and maintained data pipelines to extract, transform, and load data from various sources, including structured and unstructured data. Tools used: SQL, PowerBI, Python.
-  - Created a multiple-page HR Analytics Dashboard which includes features such as Employee Turnover and Retention, Recruitment Metrics, Employee Performance Metrics, and Learning and Development Metrics. Tools used: SQL, PowerBI.
+  - Built and maintained data pipelines to extract, transform, and load data from various data sources like databases, spreadsheets, and 
+    APIs using Databricks, Google Cloud.
+  - Extracted insights from website clickstream data, resulting in a 30% improvement in decision-making.
   - Delivered an A/B Testing tool to test the impact of different training programs on employee skills acquisition, job performance, and satisfaction. Techniques used: Hypothesis Testing, T-Test, Chi-Square Test, P-Value, Normal Distribution.
+  - Presented findings to optimize the website user experience and increased conversion rate by 15%, by creating an interactive dashboard.
+  - Tools used: Python, SQL, PowerBI, VBA, Data Modeling, Descriptive Statistics, Alteryx, and MS Excel.
 
 ## 📚 Languages & Tools
 <!DOCTYPE html>
@@ -52,8 +60,20 @@ Welcome to my GitHub profile! I'm a data science professional with  3 years of e
       <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Microsoft Power BI logo" width=60          height=60 />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height=50 width=50 />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height=50 width=50 />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height=50 width=50 />
-                  
+      <img src="https://github.com/abbas99-hub/abbas99-hub/assets/60792939/5c687814-b515-4014-84b7-08c0f81ed4d3.svg" height="70" 
+      width="70"/>
+      <img src="https://github.com/abbas99-hub/abbas99-hub/assets/60792939/491697d5-0900-499c-b65c-3bd0ab11fa41" height="70" 
+      width="70"/>
+      <img src="https://github.com/abbas99-hub/abbas99-hub/assets/60792939/24681a1c-b4e0-4085-87df-3b19132bf379" height="70" 
+      width="70"/>
+      <img src="https://github.com/abbas99-hub/abbas99-hub/assets/60792939/01270cef-eb30-464b-a9d9-af04677af809" height="70" 
+      width="70"/>
+      <img src="https://github.com/abbas99-hub/abbas99-hub/assets/60792939/596a5064-a67a-4e26-978b-9cf1c310272e" height="70" 
+      width="70"/>
+      <img src="https://github.com/abbas99-hub/abbas99-hub/assets/60792939/3246b9a3-7f2f-401e-9bfe-74690b146064" height="70" 
+      width="70"/>
+      
+           
           
   </p>
 </body>
