@@ -3,8 +3,7 @@
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@abbasbehrain95)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://www.datascienceportfol.io/portfolio99)
 
-Welcome to my GitHub profile! I'm a data science professional with  3 years of experience in the Data Science domain, skilled in developing cutting-edge ML solutions, analyzing large-scale datasets, designing interactive dashboards, and collaborating with cross-functional teams to drive data-driven decision-making.
-
+Welcome to my GitHub profile! I'm a data science professional with 3 years of experience in the Data Science domain, skilled in developing interactive dashboards, building dynamic reports, analyzing large-scale datasets, and collaborating with cross-functional teams to drive data-driven decision-making.
 
 ## 🔭 What I'm Working On
 
