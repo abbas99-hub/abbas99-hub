@@ -27,13 +27,13 @@ Welcome to my GitHub profile! I'm a data science professional with 3 years of ex
 
 - Data Analyst at Litmusblox: 8/2020-6/2022
   - Developed and implemented a Job Recommendation System that increased candidate-job matching accuracy by 30%.
-  - Built a Resume Summarization System that reduced manual effort in resume screening by 50%.
-  - Designed and deployed a CV Scoring tool that improved the efficiency of candidate evaluation by automating the scoring process.
-  - Conducted A/B tests on different product features processes, resulting in a 12% increase in conversion rate .
-  - Identified critical company KPIs for revenue, customer acquisition, and customer satisfaction.
+  - Conducted A/B tests on different product features processes, resulting in a 12% increase in conversion rate.
+  - Presented insights from website clickstream data, resulting in a 30% improvement in decision-making..
   - Developed a predictive model that accurately identified potential churn cases with an 85% accuracy rate .
+  - Identified critical company KPIs for revenue, customer acquisition, and customer satisfaction.
   - Enhanced user insights, contributing to a 10% increase in personalized user experiences .
-  - 
+  - Created pivot tables and charts to visualize KPIs, resulting in a reduction of manual reporting effort by 40%
+  - Tools used: AB Testing, Power Query, SQL, MS Excel, Clustering, Scikit-Learn, Machine Learning, TensorFlow.
 
 - Data Analyst at Peopleblox: 6/2022-6/2023
   - Built and maintained data pipelines to extract, transform, and load data from various data sources like databases, spreadsheets, and 
@@ -41,6 +41,7 @@ Welcome to my GitHub profile! I'm a data science professional with 3 years of ex
   - Extracted insights from website clickstream data, resulting in a 30% improvement in decision-making.
   - Delivered an A/B Testing tool to test the impact of different training programs on employee skills acquisition, job performance, and satisfaction. Techniques used: Hypothesis Testing, T-Test, Chi-Square Test, P-Value, Normal Distribution.
   - Presented findings to optimize the website user experience and increased conversion rate by 15%, by creating an interactive dashboard.
+  - Performed cohort analysis for customer retention, which resulted in 40% of customers from Q1 remaining active after nine months.
   - Tools used: Python, SQL, PowerBI, VBA, Data Modeling, Descriptive Statistics, Alteryx, and MS Excel.
 
 ## 📚 Languages & Tools
