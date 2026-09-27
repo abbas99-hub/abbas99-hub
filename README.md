@@ -65,7 +65,7 @@ Welcome to my GitHub profile! I'm a Commercial Analyst with 5 years of experienc
       <img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg" alt="Keras logo" height=60 width=60/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original-wordmark.svg" height=50 width=50 />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" height=60 width=60 />
-      <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Microsoft Power BI logo" width=60          height=60 />
+      <img src="https://powerbi.microsoft.com/pictures/shared/social/social-default-image.png" alt="Microsoft Power BI logo" width="60" height="60">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height=50 width=50 />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height=50 width=50 />
       <img src="https://github.com/abbas99-hub/abbas99-hub/assets/60792939/5c687814-b515-4014-84b7-08c0f81ed4d3.svg" height="70" 
