@@ -26,7 +26,21 @@ Welcome to my GitHub profile! I'm a Commercial Analyst with 5 years of experienc
 ## 💼 My Experience
 
 - Sales Planning Analyst at e& Etisalat: 11/2023-11/2026
-  - Built automated Power BI dashboards for senior leadership, enabling real-time tracking of sales performance, account growth, revenue      trends, target achievement, and pipeline health
+  - Built automated Power BI dashboards for senior leadership, enabling real-time tracking of sales performance, account growth, revenue      trends, target achievement, and pipeline health.
+  - Analyzed commercial performance across 300+ enterprise customer accounts using Microsoft Dynamics CRM data to monitor pipeline            revenue development and account growth opportunities.
+  - Designed and deployed automation workflows for recurring reporting tasks, cutting processing time by 40%.
+  - Partnered with Sales, Finance, and Business teams to evaluate commercial performance and flag business risks, contributing to a 20%       improvement in customer revenue.
+  - Developed and maintained Power BI reporting solutions using SQL, DAX, and Power Query, incorporating data validation checks to            improve consistency and reliability of recurring reports.
+  - Leveraged AI tools to accelerate recurring KPI analysis and anomaly investigation, using structured prompts and validated business        metrics to improve the speed and consistency of analytical reporting.
+
+- Data Analyst at Peopleblox: 6/2022-6/2023
+  - Built and maintained data pipelines to extract, transform, and load data from various data sources like databases, spreadsheets, and 
+    APIs using Databricks, Google Cloud.
+  - Extracted insights from website clickstream data, resulting in a 30% improvement in decision-making.
+  - Delivered an A/B Testing tool to test the impact of different training programs on employee skills acquisition, job performance, and satisfaction. Techniques used: Hypothesis Testing, T-Test, Chi-Square Test, P-Value, Normal Distribution.
+  - Presented findings to optimize the website user experience and increased conversion rate by 15%, by creating an interactive dashboard.
+  - Performed cohort analysis for customer retention, which resulted in 40% of customers from Q1 remaining active after nine months.
+  - Tools used: Python, SQL, Power BI, VBA, Data Modeling, Descriptive Statistics, Alteryx, and MS Excel.
 
 - Data Analyst at Litmusblox: 8/2020-6/2022
   - Developed and implemented a Job Recommendation System that increased candidate-job matching accuracy by 30%.
@@ -37,15 +51,6 @@ Welcome to my GitHub profile! I'm a Commercial Analyst with 5 years of experienc
   - Enhanced user insights, contributing to a 10% increase in personalized user experiences .
   - Created pivot tables and charts to visualize KPIs, resulting in a reduction of manual reporting effort by 40%
   - Tools used: AB Testing, Power Query, SQL, MS Excel, Clustering, Scikit-Learn, Machine Learning, TensorFlow.
-
-- Data Analyst at Peopleblox: 6/2022-6/2023
-  - Built and maintained data pipelines to extract, transform, and load data from various data sources like databases, spreadsheets, and 
-    APIs using Databricks, Google Cloud.
-  - Extracted insights from website clickstream data, resulting in a 30% improvement in decision-making.
-  - Delivered an A/B Testing tool to test the impact of different training programs on employee skills acquisition, job performance, and satisfaction. Techniques used: Hypothesis Testing, T-Test, Chi-Square Test, P-Value, Normal Distribution.
-  - Presented findings to optimize the website user experience and increased conversion rate by 15%, by creating an interactive dashboard.
-  - Performed cohort analysis for customer retention, which resulted in 40% of customers from Q1 remaining active after nine months.
-  - Tools used: Python, SQL, PowerBI, VBA, Data Modeling, Descriptive Statistics, Alteryx, and MS Excel.
 
 ## 📚 Languages & Tools
 <!DOCTYPE html>
@@ -85,7 +90,7 @@ Welcome to my GitHub profile! I'm a Commercial Analyst with 5 years of experienc
 
 ## 📝 My Medium Articles
 
-- Check out my latest articles on [Medium](https://medium.com/@abbasbehrain95) where I share insights and tutorials related to HR analytics, data science, and machine learning.
+- Check out my latest articles on [Medium](https://medium.com/@abbasbehrain95) where I share insights and tutorials related to Commercial analytics, data science, and AI Automation workflows.
 
 ## 📫 How to Reach Me
 
@@ -94,5 +99,5 @@ Welcome to my GitHub profile! I'm a Commercial Analyst with 5 years of experienc
 
 ## 🤝 Let's Connect
 
-- I'm always interested in connecting with professionals and researchers in the field of data science and machine learning.
+- I'm always interested in connecting with BI professionals and researchers in the field of Analytics.
 - Feel free to reach out if you have any questions, project ideas, or opportunities for collaboration!
