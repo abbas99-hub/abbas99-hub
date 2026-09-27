@@ -1,21 +1,21 @@
 # Hello I'm Abbas Behrainwala! 👋
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abbas-behrainwala-1b669b183)
+
 [![Medium](https://img.shields.io/badge/-Medium-black?style=flat&logo=medium&logoColor=white)](https://medium.com/@abbasbehrain95)
+
 [![Portfolio](https://img.shields.io/badge/-Portfolio-orange?style=flat)](https://www.datascienceportfol.io/portfolio99)
 
-Welcome to my GitHub profile! I'm a data science professional with 3 years of experience in the Data Science domain, skilled in developing interactive dashboards, building dynamic reports, analyzing large-scale datasets, and collaborating with cross-functional teams to drive data-driven decision-making.
+Welcome to my GitHub profile! I'm a Commercial Analyst with 5 years of experience in the Commercial domain, skilled in developing interactive dashboards, automating different workflows using AI, monitoring commercial business KPIs, and collaborating with cross-functional teams to drive data-driven decision-making.
 
 ## 🔭 What I'm Working On
 
-- I'm exploring Data Analytics Applications in different industries such as Finance, Marketing, and Retail.
-- I am working on building End-to-End Production Level Dashboard from Extract Transform Load (ETL) data from different sources to 
+- I'm exploring AI integrated Analytics, Automation workflows use cases in different domains such as Sales, Finance, Marketing, and Retail.
+- I am working on building an end-to-end production-level dashboard from Extract, Transform, Load (ETL) data from different sources to 
  an interactive dashboard.
-- Also, I'm building an integrated dynamic HR Analytics Dashboard to visualize and analyze key HR metrics, such as employee attrition, performance, and diversity.
 
 ## 🌱 What I'm Learning
 
-- I'm expanding my Data Analysis knowledge and exploring advanced Big Data architectures using PySpark, Hive, Snowflakes, and many more to enhance the accuracy and quality of my Data Analyst projects.
-- I'm also diving deeper into recommendation systems, exploring different algorithms and strategies to improve the precision and personalization of product recommendations.
+- I'm expanding my AI knowledge and exploring different tools such as Claude Code, N8N, and many more to enhance the accuracy and quality of my Analytical projects.
 
 ## 🚀 My Projects
 - Supply Chain Analytics: https://github.com/abbas99-hub/Supply-Chain-Analytics 
@@ -24,6 +24,9 @@ Welcome to my GitHub profile! I'm a data science professional with 3 years of ex
 - HR Job Salary Analytics Dashboard: https://app.powerbi.com/links/J5PBneu_XH?ctid=80422497-e632-410a-964a-2cee17aa1964&pbi_source=linkShare 
 
 ## 💼 My Experience
+
+- Sales Planning Analyst at e& Etisalat: 11/2023-11/2026
+  - Built automated Power BI dashboards for senior leadership, enabling real-time tracking of sales performance, account growth, revenue      trends, target achievement, and pipeline health
 
 - Data Analyst at Litmusblox: 8/2020-6/2022
   - Developed and implemented a Job Recommendation System that increased candidate-job matching accuracy by 30%.
