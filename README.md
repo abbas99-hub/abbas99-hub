@@ -1,4 +1,4 @@
-# Hi, I'm Abbas Behrainwala 👋
+# Hi, I'm Abbas Behrainwala
 
 ### Commercial Data Analyst | Sales & Revenue Analytics | CRM Intelligence | Power BI & SQL
 
@@ -25,7 +25,7 @@ My focus is on combining commercial understanding with reliable data models, dec
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 - **Commercial & Sales Analytics:** Revenue performance, target achievement, pipeline health, account growth, sales productivity, and performance variance.
 - **CRM & Customer Intelligence:** Analysing CRM opportunities, customer accounts, pipeline progression, and growth opportunities.
@@ -34,7 +34,7 @@ My focus is on combining commercial understanding with reliable data models, dec
 - **Reporting Automation:** Improving recurring reporting processes with SQL, Power Query, Excel, and AI-assisted workflows.
 - **Data Quality & Governance:** Validating source data, documenting metric definitions, and making reporting logic more transparent and repeatable.
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Sales Planning Analyst — e& (Etisalat)
 *Dubai, UAE | November 2023 – Present*
@@ -57,7 +57,7 @@ My focus is on combining commercial understanding with reliable data models, dec
 
 ---
 
-## 📊 Featured Commercial Analytics Projects
+## Featured Commercial Analytics Projects
 
 ### 1. CRM Commercial Performance & Revenue Analytics
 **Focus:** Sales pipeline, revenue visibility, customer intelligence, and CRM data quality.
@@ -102,7 +102,7 @@ My focus is on combining commercial understanding with reliable data models, dec
 
 ---
 
-## 🧰 Skills & Tools
+## Skills & Tools
 
 ### Commercial Analytics
 `Commercial KPI Reporting` · `Sales Performance` · `Revenue Analysis` · `Pricing Analysis` · `Forecasting` · `Target Achievement` · `Pipeline Analysis` · `Sales Incentive Simulation` · `Workforce Planning` · `Data Storytelling`
@@ -121,20 +121,20 @@ My focus is on combining commercial understanding with reliable data models, dec
 
 ---
 
-## 🌱 What I'm Learning & Exploring
+## What I'm Learning & Exploring
 
 - **AI-assisted commercial analytics:** using AI to accelerate analysis, documentation, and reporting while validating outputs against trusted metrics.
 - **Workflow automation:** exploring tools such as Claude Code and n8n for practical business-process automation use cases.
 - **End-to-end analytics engineering:** strengthening the path from source data and ETL to validated models, business KPIs, and decision-ready dashboards.
 - **Commercial storytelling:** communicating analytical findings as business implications, risks, recommendations, and next actions.
 
-## ✍️ Writing & Knowledge Sharing
+## Writing & Knowledge Sharing
 
 I share project walkthroughs and practical learning on commercial analytics, Power BI, SQL, ETL, and AI-assisted reporting.
 
 ➡️ **[Read my articles on Medium](https://medium.com/@abbasbehrain95)**
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm interested in connecting with commercial leaders, sales and revenue operations teams, BI professionals, and analytics practitioners working on data-driven business decisions.
 
