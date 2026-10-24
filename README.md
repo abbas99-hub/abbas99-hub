@@ -4,7 +4,7 @@
 
 I turn commercial, sales, and CRM data into clear performance insights that help teams understand **what is happening, why it is happening, and what to do next**.
 
-I have 4+ years of experience across commercial analytics, enterprise telecom, and business reporting. In my current role as a Sales Planning Analyst at **e& (Etisalat)** in Dubai, I work with sales performance, revenue trends, target achievement, account growth, and pipeline health across 300+ enterprise customer accounts.
+I have 5 years of experience across commercial analytics, enterprise telecom, and business reporting. In my current role as a Sales Planning Analyst at **e& (Etisalat)** in Dubai, I work with sales performance, revenue trends, target achievement, account growth, and pipeline health across 300+ enterprise customer accounts.
 
 My focus is on combining commercial understanding with reliable data models, decision-ready dashboards, reporting automation, and clear stakeholder communication.
 
